@@ -5,6 +5,7 @@ This repository contains Java-based solutions to commonly asked Data Structures 
 ## 📁 Folders
 
 - Arrays
+- Patterns
 - Searching
 - Sorting
 - LinkedList
