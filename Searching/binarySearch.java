@@ -34,5 +34,5 @@ public class binarySearch {
     }
 }
 
-/*t.c = O(logn)
-s.c = O(1)*/
+/*time complexity = O(logn)
+space complexity = O(1)*/
