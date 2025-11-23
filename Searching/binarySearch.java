@@ -10,7 +10,6 @@ public class binarySearch {
             a[i] = sc.nextInt();
         }
         int key = sc.nextInt();
-        Arrays.sort(a);
         int result = binary(a,key);
         if(result==-1)System.out.print("Element not found");
         else  System.out.println("Element found at index: " + result);
@@ -34,3 +33,6 @@ public class binarySearch {
         return -1;
     }
 }
+
+/*t.c = O(logn)
+s.c = O(1)*/
