@@ -10,7 +10,7 @@ public class MergeSort{
             merge(arr,l,mid,r);
         }
     }
-    public static void merge(int[] arr,int l,int mid,int r){
+    public static void merge(int[] arr, int l, int mid, int r){
         int n1 = mid-l+1;
         int n2 = r-mid;
 
@@ -70,3 +70,5 @@ public class MergeSort{
     }
 
 }
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
