@@ -59,13 +59,13 @@ public class Main{
     }
 }
 
-// output:
+/*  output:
 Original List:
 10->20->30->50->60->null
 After deletion,The list is:
-10->20->50->60->null
+10->20->50->60->null   */
 
 ==============================
 
-  // Time Complexity = O(n)
-  // Space Complexity = O(1)
+  /* Time Complexity = O(n)
+     Space Complexity = O(1) */
