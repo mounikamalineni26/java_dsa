@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Main{ 
+public class DFS{ 
     public static void dfs(int node, boolean[] visited, ArrayList<ArrayList<Integer>> graph) {
         visited[node] = true;
         System.out.print(node + " ");
