@@ -11,12 +11,9 @@ This repository contains Java-based solutions to commonly asked Data Structures 
 - LinkedList
 - Stack
 - Queue
-- Hashing
-- Recursion
 - Trees
 - Graphs
-- TwoPointers
-- SlidingWindow
+- DP
 
 ## 🛠 How to Run
 
