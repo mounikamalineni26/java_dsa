@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class GraphRepresentation{
+public class graphRepresentation{
     static ArrayList<ArrayList<Integer>> createGraph(int v, int edges[][]){
         ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
         for(int i=0; i<v; i++){
