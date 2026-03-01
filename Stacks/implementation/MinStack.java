@@ -43,7 +43,7 @@ public class MinStack {
       System.out.println(var1.getMin());
    }
 }
-// Time Complexity = O(n)
+// Time Complexity = O(1)
 // Space Complexity = O(n)
 /* Output:
 -3
