@@ -13,3 +13,4 @@ public class ClimbingStairs{
         System.out.println("Number of ways to climb 4 stairs is: " + climbStairs(4));
     }
 }
+// Output: 5
