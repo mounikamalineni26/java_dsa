@@ -14,3 +14,5 @@ public class ClimbingStairs{
     }
 }
 // Output: 5
+// Time Complexity = O(n)
+// Space Complexity = O(n)
