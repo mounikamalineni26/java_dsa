@@ -13,3 +13,6 @@ public class Fibonacci{
         System.out.println("Fibonacci of 10 is: " + fib(10));
     }
 }
+// Output: 55
+// Time complexity = O(n)
+// Space complexity = O(n)
