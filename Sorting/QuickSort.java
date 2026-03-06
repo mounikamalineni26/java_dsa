@@ -36,6 +36,13 @@ public class QuickSort{
         }
     }
 }
-// Time Complexity: O(nlogn)
-// Space Complexity: O(logn)
+/*  for best and worst case:
+      Time Complexity: O(nlogn)
+      Space Complexity: O(logn)
+    for worst case:
+       Time Complexity: O(n^2)
+      Space Complexity: O(n)
+*/
+
        
+
