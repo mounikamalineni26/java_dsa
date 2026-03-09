@@ -32,3 +32,7 @@ public class Knapsack {
         System.out.println("Maximum value in knapsack = " + maxValue);
     }
 }
+/* Output: Maximum value in knapsack = 50
+   Time Complexity: O(n*w)
+   Space Complexity: O(n*w)  */
+    
